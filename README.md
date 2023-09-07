@@ -1,3 +1,3 @@
 #Command Line & Git Challenge
 
-Thisis my challenge repo
+This is my challenge repo
